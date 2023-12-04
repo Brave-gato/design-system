@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="flex items-center justify-between flex-wrap bg-black h-20 px-4 border-b border-white"
+    class="flex items-center justify-between flex-wrap bg-yellow-50 h-20 px-4 border-b border-lime-600"
   >
     <div>
       <nuxt-link to="/">
